@@ -1,0 +1,9 @@
+author: waxdt
+database: false
+description: Blocks certain items from lagging a world with creative mode enabled!
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.waxdt.plugins.enderbuster.EnderBuster
+name: EnderBuster
+startup: postworld
+url: http://enderville.com/
+version: '1.0'
